@@ -36,7 +36,7 @@ export const Header = (props) => {
         <Navbar.Burger data-target="navigation" onClick={handleBurger} />
       </Navbar.Brand>
 
-      <Navbar.Menu id="navigation" className=" notification is-dark">
+      <Navbar.Menu id="navigation" className="notification is-dark p-0">
         <Navbar.Container align="right">
             <Navbar.Item onClick={handleLogout} id="logout">
               <LogoutOutlined title="Log out" className="m-0 mr-2 p-2" />
