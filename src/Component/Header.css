@@ -1,0 +1,8 @@
+.navbar-item {
+  background: transparent;
+  width: fit-content;
+}
+
+#logout:hover {
+    background: #222222 ;
+}
