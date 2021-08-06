@@ -3,7 +3,8 @@
 
 Check out the [Chat Application](https://github.com/ankit1509/Chat-Application)
 
-![Chat Application](https://user-images.githubusercontent.com/60814508/128452423-bc328c2b-a3c6-4c70-bba8-551f4952ad64.png)
+![Chat Application](https://user-images.githubusercontent.com/60814508/128502866-883d4ee3-8e95-4792-948a-92af27879090.png)
+
 
 
 
@@ -13,11 +14,9 @@ Check out the [Chat Application](https://github.com/ankit1509/Chat-Application)
 ## Introduction
 ***
 
-This is a Simple Chat Application build with React JS and [Chat Engine](https://chatengine.io)!
-
-Chat Engine is a set of APIs and UI Kit specific to chat.
-
-Its a good example of learning react and creating something production ready!
+  - This is a Simple Chat Application build with React JS and [Chat Engine](https://chatengine.io)!
+  - Chat Engine is a set of APIs and UI Kit specific to chat.
+  - Its a good example of learning react and creating something production ready!
 
 ***
 ***
