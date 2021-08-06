@@ -1,7 +1,7 @@
 # Welcome to Chat Application!!
 ***
 
-Check out the [Chat Application](https://github.com/ankit1509/Chat-Application)
+Check out the [Chat Application](https://ankit1509.github.io/Chat-Application)
 
 ![Chat Application](https://user-images.githubusercontent.com/60814508/128502866-883d4ee3-8e95-4792-948a-92af27879090.png)
 
